@@ -1,1 +1,10 @@
-Java
+![Como Jogar_page-0001](https://user-images.githubusercontent.com/51718707/136302542-d5b2c258-0b0b-43d1-ae1f-fce3498e197c.jpg)
+![Como Jogar_page-0002](https://user-images.githubusercontent.com/51718707/136302546-f86dec8b-d1d2-4aa9-bf7e-59db34963353.jpg)
+![Como Jogar_page-0003](https://user-images.githubusercontent.com/51718707/136302554-249c0b45-6293-436e-88c4-b401c619ddf3.jpg)
+![Como Jogar_page-0004](https://user-images.githubusercontent.com/51718707/136302559-a4b66b3c-383f-4a46-b665-9abb4c83d105.jpg)
+![Como Jogar_page-0005](https://user-images.githubusercontent.com/51718707/136302562-319a0af4-09de-478b-9062-bdedd36eba04.jpg)
+![Como Jogar_page-0006](https://user-images.githubusercontent.com/51718707/136302569-22cd631d-b3b1-4b34-9e5c-1cff633a5013.jpg)
+![Como Jogar_page-0007](https://user-images.githubusercontent.com/51718707/136302577-2282440f-d3ed-4dd5-ad46-a7640b6ad5a2.jpg)
+![Como Jogar_page-0008](https://user-images.githubusercontent.com/51718707/136302580-5b5789a2-740c-4cb8-b00b-0071cd61c6cc.jpg)
+![Como Jogar_page-0009](https://user-images.githubusercontent.com/51718707/136302587-2134241d-7945-494a-bb24-c5ebb1409cdd.jpg)
+![Como Jogar_page-0010](https://user-images.githubusercontent.com/51718707/136302592-166ade15-2d83-4170-a916-83027b138c21.jpg)
