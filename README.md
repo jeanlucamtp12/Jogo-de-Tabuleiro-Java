@@ -1,1 +1,10 @@
-# Jogo-de-Tabuleiro-Java
+![Como Jogar_page-0001](https://user-images.githubusercontent.com/51718707/136301740-721defb2-8b0d-4879-90cf-014ec17c58e0.jpg)
+![Como Jogar_page-0002](https://user-images.githubusercontent.com/51718707/136301812-03beda9f-5157-47da-8b7c-97c6eb1fe09f.jpg)
+![Como Jogar_page-0003](https://user-images.githubusercontent.com/51718707/136301828-41330a54-ccfb-4447-8748-65928428b1c6.jpg)
+![Como Jogar_page-0004](https://user-images.githubusercontent.com/51718707/136301831-ed556317-8493-4008-9734-197c9b7d6fb8.jpg)
+![Como Jogar_page-0005](https://user-images.githubusercontent.com/51718707/136301840-0bca4326-35f1-4313-9eec-6cdcd85fcaf5.jpg)
+![Como Jogar_page-0006](https://user-images.githubusercontent.com/51718707/136301843-d5cd2e90-4db9-40f8-a1c3-6e0285f9d46f.jpg)
+![Como Jogar_page-0007](https://user-images.githubusercontent.com/51718707/136301848-e24a32bb-ad02-40ab-b4a2-bb6fc4d0b33f.jpg)
+![Como Jogar_page-0008](https://user-images.githubusercontent.com/51718707/136301854-cf733cbd-da43-4e3a-ae1b-6e8b84c57ba4.jpg)
+![Como Jogar_page-0009](https://user-images.githubusercontent.com/51718707/136301862-b894fae2-ed79-4282-9097-00343b673bf1.jpg)
+![Como Jogar_page-0010](https://user-images.githubusercontent.com/51718707/136301865-e2821f24-e183-4d5e-b85a-3a10b4edf552.jpg)
